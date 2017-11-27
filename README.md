@@ -1,2 +1,2 @@
 # Python3
-练习
+py.checkio.org 上的练习题
